@@ -13,19 +13,17 @@
 ```
 Python library for creating games in terminal
 
----
-
 ## Installation
 
-You can install pyterm with git, because I haven't finished the project yet.
+You can't install pyterm with pip, because I haven't finished the project yet.
 
-First you go to your project path with `cd`.
+1. First you go to your project path with `cd`.
 
-Next you clone project with git:
-```shell
-git clone "https://github.com/IlyaR31/Pyterm.git"
-```
-Move `pyterm` folder to your project, and now you can use it by importing the `pyterm` library
+2. Next you clone project with git:
+    ```shell
+    git clone "https://github.com/IlyaR31/Pyterm.git"
+    ```
+3. Move `pyterm` folder to your project, and now you can use it by importing the `pyterm` library
 
 ## Requirements
 
